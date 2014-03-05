@@ -1,4 +1,5 @@
 Litecoin integration/staging tree
+https://www.codeship.io/projects/29c859c0-86d6-0131-e73c-4668b9f0feb8/status
 ================================
 
 http://www.litecoin.org
